@@ -1,4 +1,4 @@
-# overvievrr
+# overviewr
 An advanced Servarr utility to list open requests from Overseerr and missing Movies and TV shows from Radarr and Sonarr.
 
 ##Problem
