@@ -21,6 +21,7 @@
     - Radarr/Sonarr/Lidarr/Overseerr 
         - API Keys
         - IP:Port / FQDN
+    - Configurable "Cronjobs" to fetch data from *arrs
 - API Methods (look which are needed)
     - https://radarr.video/docs/api/
     - https://sonarr.tv/docs/api/
@@ -33,6 +34,6 @@
     - Radarr/Sonarr
         - no API method to fetch missing movies?
             - Workaround: fetch all movies and filter by missing
-                - resource intensive  
+                - bigger library = more resource intensive
 - Store Data
     - SQlite or SQL Database 
